@@ -24,8 +24,7 @@ Meu trabalho conecta a análise técnica de infraestrutura e redes à avaliaçã
 
 | # | Projeto / Laboratório | Competências Demonstradas | Status |
 |---|----------------------|---------------------------|--------|
-| **01** | [Criação de Rede Doméstica] | Cisco Packet Tracer, VLANs, Protocolos de Rede | **Concluído** |
-| **02** | [NOME] | algo | **Concluído** |
+| **01** | [Criação de Rede Doméstica](https://github.com/julia-araujo-tecnologia/Criacao-de-Rede-Domestica) | Cisco Packet Tracer, VLANs, Protocolos de Rede | **Concluído** |
 
 ---
 
